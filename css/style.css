@@ -1,0 +1,7 @@
+body { background-color: lightgray; text-align: center; }
+
+body .contactsList { margin: 0; padding: 0; }
+
+body .contactsList .contactItem { background-color: white; padding: 15px; margin: 10px; }
+
+body .contactsList .contactItem img { width: 100px; height: 100px; }
